@@ -373,3 +373,6 @@ img::-moz-selection {
 .bg-primary {
     background-color: yellowgreen;
 }
+.small-print .container{
+    padding:10px;
+}
